@@ -6,7 +6,7 @@
 	<tag>
 		<name>TagListNavigator</name>
 		<tagclass>framework.taglib.list.TagListNavigator</tagclass>
-		<bodycontent>Empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>bean</name>
 			<required>true</required>

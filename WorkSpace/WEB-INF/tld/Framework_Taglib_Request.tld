@@ -6,7 +6,7 @@
 	<tag>
 		<name>TagDefineAttribute</name>
 		<tagclass>framework.taglib.request.TagDefineAttribute</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>expression</name>
 			<required>true</required>
@@ -36,7 +36,7 @@
 	<tag>
 		<name>TagDefineAttributeIf</name>
 		<tagclass>framework.taglib.request.TagDefineAttributeIf</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>expression</name>
 			<required>true</required>
@@ -76,7 +76,7 @@
 	<tag>
 		<name>TagPrintAttribut</name>
 		<tagclass>framework.taglib.request.TagPrintAttribut</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>name</name>
 			<required>true</required>
@@ -101,7 +101,7 @@
 	<tag>
 		<name>TagRemoveAttribute</name>
 		<tagclass>framework.taglib.request.TagRemoveAttribute</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>name</name>
 			<required>true</required>
@@ -116,7 +116,7 @@
 	<tag>
 		<name>TagDefineCount</name>
 		<tagclass>framework.taglib.request.TagDefineCount</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>name</name>
 			<required>true</required>

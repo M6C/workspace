@@ -6,7 +6,7 @@
     <tag>
         <name>TagPathFormat</name>
         <tagclass>workspace.taglib.path.TagPathFormat</tagclass>
-        <bodycontent>empty</bodycontent>
+        <bodycontent>JSP</bodycontent>
         <attribute>
             <name>application</name>
             <required>false</required>

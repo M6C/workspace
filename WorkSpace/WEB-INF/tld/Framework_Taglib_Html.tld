@@ -62,7 +62,7 @@
 	<tag>
 		<name>TagLink</name>
 		<tagclass>framework.taglib.html.TagLink</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -117,7 +117,7 @@
 	<tag>
 		<name>TagMeta</name>
 		<tagclass>framework.taglib.html.TagMeta</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -242,7 +242,7 @@
 	<tag>
 		<name>TagBr</name>
 		<tagclass>framework.taglib.html.TagBr</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -262,7 +262,7 @@
 	<tag>
 		<name>TagHr</name>
 		<tagclass>framework.taglib.html.TagHr</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -277,7 +277,7 @@
 	<tag>
 		<name>TagNoscript</name>
 		<tagclass>framework.taglib.html.TagNoscript</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -477,7 +477,7 @@
 	<tag>
 		<name>TagIframe</name>
 		<tagclass>framework.taglib.html.TagIframe</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -647,7 +647,7 @@
 	<tag>
 		<name>TagBase</name>
 		<tagclass>framework.taglib.html.TagBase</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -667,7 +667,7 @@
 	<tag>
 		<name>TagSpan</name>
 		<tagclass>framework.taglib.html.TagSpan</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -732,7 +732,7 @@
 	<tag>
 		<name>TagIlayer</name>
 		<tagclass>framework.taglib.html.TagIlayer</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -892,7 +892,7 @@
 	<tag>
 		<name>TagTbody</name>
 		<tagclass>framework.taglib.html.TagTbody</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -937,7 +937,7 @@
 	<tag>
 		<name>TagLabel</name>
 		<tagclass>framework.taglib.html.TagLabel</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -987,7 +987,7 @@
 	<tag>
 		<name>TagArea</name>
 		<tagclass>framework.taglib.html.TagArea</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -1202,7 +1202,7 @@
 	<tag>
 		<name>TagFrame</name>
 		<tagclass>framework.taglib.html.TagFrame</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -1252,7 +1252,7 @@
 	<tag>
 		<name>TagInput</name>
 		<tagclass>framework.taglib.html.TagInput</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -1387,7 +1387,7 @@
 	<tag>
 		<name>TagLayer</name>
 		<tagclass>framework.taglib.html.TagLayer</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -1567,7 +1567,7 @@
 	<tag>
 		<name>TagParam</name>
 		<tagclass>framework.taglib.html.TagParam</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -1757,7 +1757,7 @@
 	<tag>
 		<name>TagCol</name>
 		<tagclass>framework.taglib.html.TagCol</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -1777,7 +1777,7 @@
 	<tag>
 		<name>TagScr</name>
 		<tagclass>framework.taglib.html.TagScr</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>
@@ -1807,7 +1807,7 @@
 	<tag>
 		<name>TagImg</name>
 		<tagclass>framework.taglib.html.TagImg</tagclass>
-		<bodycontent>EMPTY</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>stringCharactere</name>
 			<required>false</required>

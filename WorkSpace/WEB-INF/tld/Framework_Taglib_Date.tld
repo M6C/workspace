@@ -6,7 +6,7 @@
 	<tag>
 		<name>TagDateFormat</name>
 		<tagclass>framework.taglib.date.TagDateFormat</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>time</name>
 			<required>true</required>

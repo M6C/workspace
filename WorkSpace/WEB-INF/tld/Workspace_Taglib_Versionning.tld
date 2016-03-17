@@ -6,7 +6,7 @@
 	<tag>
 		<name>TagStatus</name>
 		<tagclass>workspace.taglib.versioning.TagStatus</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>application</name>
 			<required>true</required>
@@ -86,7 +86,7 @@
 	<tag>
 		<name>TagStatusListItem</name>
 		<tagclass>workspace.taglib.versioning.TagStatusListItem</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>methode</name>
 			<required>false</required>
@@ -111,7 +111,7 @@
 	<tag>
 		<name>TagStatusListSize</name>
 		<tagclass>workspace.taglib.versioning.TagStatusListSize</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>scope</name>
 			<required>false</required>

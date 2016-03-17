@@ -6,7 +6,7 @@
 	<tag>
 		<name>TagLoadBean</name>
 		<tagclass>framework.taglib.TagLoadBean</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>name</name>
 			<required>true</required>

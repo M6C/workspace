@@ -6,7 +6,7 @@
 	<tag>
 		<name>TagEval</name>
 		<tagclass>framework.taglib.eval.TagEval</tagclass>
-		<bodycontent>empty</bodycontent>
+		<bodycontent>JSP</bodycontent>
 		<attribute>
 			<name>expression</name>
 			<required>true</required>
